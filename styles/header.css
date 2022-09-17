@@ -3,6 +3,10 @@ header {
 
   display: flex;
   justify-content: center;
+
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(237, 237, 237);
 }
 
 .header-container {
@@ -16,6 +20,7 @@ header {
 .mclogo {
   display: inline-block;
   margin-right: 130px;
+  cursor: pointer;
 }
 
 nav {
@@ -30,7 +35,6 @@ nav img {
 nav a {
   text-decoration: none;
   color: rgb(41, 41, 41);
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .secondary-nav {
@@ -93,6 +97,8 @@ nav a {
 
 .order {
   display: inline-block;
+  cursor: pointer;
+  position: relative;
 }
 
 .order-button {

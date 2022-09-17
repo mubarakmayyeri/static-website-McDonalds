@@ -1,0 +1,51 @@
+main {
+
+}
+
+.section {
+  height: 422px;
+  margin-top: 90px;
+  display: flex;
+  justify-content: center;
+}
+
+section img {
+  width: 748px;
+  height: 333px;
+}
+
+.text {
+  margin-left: 30px;
+  width: 350px;
+}
+
+.heading {
+  font-size: 32px;
+  font-weight: 900;
+}
+
+.description {
+  font-size: 14px;
+}
+
+.description a {
+  color: rgb(0, 107, 144);
+}
+
+.terms {
+  font-size: 10px;
+  letter-spacing: 0.001px;
+}
+
+.button {
+  margin-top: 50px;
+  padding: 15px 25px 15px 25px;
+  border-radius: 5px;
+  border-style: none;
+  background-color: rgb(255, 188, 13);
+
+  font-size: 14px;
+
+  cursor: pointer;
+  position: relative;
+}
