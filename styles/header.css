@@ -1,0 +1,124 @@
+header {
+  height: 130px;
+
+  display: flex;
+  justify-content: center;
+}
+
+.header-container {
+  height: 115px;
+  width: 1170px;
+  padding-top: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+.mclogo {
+  display: inline-block;
+  margin-right: 130px;
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+}
+
+nav img {
+  height: 12px;
+}
+
+nav a {
+  text-decoration: none;
+  color: rgb(41, 41, 41);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.secondary-nav {
+  width: 900px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.secondary-nav a{
+  font-size: 12px;
+}
+
+.secondary-left {
+  width: 304px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.language-button {
+  display: flex;
+  align-items: center;
+  width: 75px;
+}
+
+.lang-arrow {
+  margin-top: 3px;
+  margin-left: 5px;
+}
+
+.signup {
+  display: inline-block;
+}
+
+.secondary-right {
+  width: 410px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.search-button {
+  display: flex;
+  align-items: center;
+  width: 55px;
+}
+
+.location {
+  display: flex;
+  align-items: center;
+  width: 145px;
+}
+
+.location a {
+  text-decoration: underline;
+  color: rgb(0, 107, 174);
+}
+
+.order {
+  display: inline-block;
+}
+
+.order-button {
+  padding: 10px 25px 10px 25px;
+  border-radius: 5px;
+  border-style: none;
+  background-color: rgb(255, 188, 13);
+}
+
+.primary-nav {
+  width: 900px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.primary-nav a {
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.our-menu-button {
+  width: 95px;
+}
+
+.our-arrow, .download, .rewards, .deals, .about, .locate {
+  display: inline-block;
+}
