@@ -1,6 +1,3 @@
-main {
-
-}
 
 .section {
   height: 422px;
@@ -20,8 +17,8 @@ section img {
 }
 
 .heading {
-  font-family: 'Speede';
-  font-size: 38px;
+  font-family: 'Speeded-bold';
+  font-size: 34px;
   font-weight: 900;
 }
 
