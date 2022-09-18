@@ -1,8 +1,18 @@
+@font-face {
+  font-family: 'Speede';
+  src: url(../assets/fonts/Speedee-Regular.ttf),
+    url(../assets/fonts/Speedee-Bold.ttf),
+    url(../assets/fonts/Speedee-BoldItalic.ttf),
+    url(../assets/fonts/Speedee-Light.ttf),
+    url(../assets/fonts/Speedee-LightItalic.ttf),
+    url(../assets/fonts/Speedee-RegularItalic.ttf),
+    url(../assets/fonts/SpeedeeCondensed-Bold.ttf),
+    url(../assets/fonts/SpeedeeCondensed-Light.ttf),
+    url(../assets/fonts/SpeedeeCondensed-Regular.ttf);
+}
 
 body {
   margin: 0;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Speede';
   color: rgb(41, 41, 41);
 }
-
-
