@@ -26,6 +26,10 @@ section img {
   font-size: 15px;
 }
 
+.description-story {
+  width: 370px;
+}
+
 .description a {
   color: rgb(0, 107, 144);
 }

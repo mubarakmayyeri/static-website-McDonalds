@@ -19,13 +19,14 @@ header {
 
 .mclogo {
   display: inline-block;
-  margin-right: 100px;
+  margin-right: 70px;
   cursor: pointer;
 }
 
 nav {
   display: flex;
   flex-direction: column;
+  margin-right: 70px;
 }
 
 nav img {
@@ -109,8 +110,9 @@ nav a {
 }
 
 .primary-nav {
-  width: 900px;
+  width: 800px;
   height: 48px;
+  margin-top: 6px;
   display: flex;
   align-items: center;
   justify-content: space-between;
