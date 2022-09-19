@@ -45,7 +45,7 @@ nav a {
 }
 
 .secondary-nav a{
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .secondary-left {
@@ -82,13 +82,13 @@ nav a {
 .search-button {
   display: flex;
   align-items: center;
-  width: 55px;
+  width: 60px;
 }
 
 .location {
   display: flex;
   align-items: center;
-  width: 145px;
+  width: 160px;
 }
 
 .location a {
@@ -96,17 +96,13 @@ nav a {
   color: rgb(0, 107, 174);
 }
 
-.order {
-  display: inline-block;
-  cursor: pointer;
-  position: relative;
-}
-
 .order-button {
   padding: 10px 25px 10px 25px;
   border-radius: 5px;
   border-style: none;
   background-color: rgb(255, 188, 13);
+  cursor: pointer;
+  position: relative;
 }
 
 .primary-nav {
@@ -124,9 +120,9 @@ nav a {
 }
 
 .our-menu-button {
-  width: 95px;
+  width: 120px;
 }
 
-.our-arrow, .download, .rewards, .deals, .about, .locate {
+.our-arrow{
   display: inline-block;
 }

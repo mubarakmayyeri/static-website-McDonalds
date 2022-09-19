@@ -12,6 +12,7 @@ section img {
 }
 
 .text {
+  margin-top: -20px;
   margin-left: 30px;
   width: 350px;
 }
@@ -23,7 +24,7 @@ section img {
 }
 
 .description {
-  font-size: 15px;
+  font-size: 16px;
 }
 
 .description-story {
@@ -36,6 +37,7 @@ section img {
 
 .terms {
   font-size: 10px;
+  width: 378px;
   letter-spacing: 0.001px;
   margin-top: 50px;
 }
